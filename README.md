@@ -1,1 +1,1 @@
-# Rest-Maven
+# Created a REST Webservice in Maven
